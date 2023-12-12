@@ -13,4 +13,4 @@ Have a look at the generatexy() function in generatexy.R for an example.
 main.R
 
 ## Results
-The codes for all of the results and figures are in \url{https://github.com/LiminLi-xjtu/WMW-A-experiments}
+The codes for all of the results and figures are in [WMW-A-experiments](https://github.com/LiminLi-xjtu/WMW-A-experiments)
